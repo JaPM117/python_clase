@@ -6,4 +6,4 @@ total= prec * num
 
 print(f"PRECIO UNITARIO: {prec:.2f} €")
 print(f"NÚMERO DE UNIDADES:", num)
-print(f"COSTE TOTAL: {total:.2f} €")
+print(f"COSTE TOTAL: {total:.2f} €"
